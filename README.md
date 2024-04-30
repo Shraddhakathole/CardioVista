@@ -1,1 +1,3 @@
-# CardioVista
+Refined Description:
+
+"CardioVista ML Prediction Model is an advanced tool tailored for predicting heart disease risk based on key input features. By leveraging machine learning algorithms, including  logistic regression, and SVC, CardioVista analyzes essential patient data such as age, sex, chest pain type, resting blood pressure, cholesterol levels, fasting blood sugar, resting ECG results, maximum heart rate achieved, exercise-induced angina, old peak, and ST slope. This predictive model offers accurate assessments, enabling healthcare professionals to identify individuals at higher risk of heart disease and implement preventive measures effectively. With CardioVista, proactive heart health management becomes more precise, facilitating timely interventions and improved patient outcomes."
